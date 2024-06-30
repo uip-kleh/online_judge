@@ -164,7 +164,32 @@
             "}"
         ],
         "description": "Calculate shortest path using BFS with initial setup"
+    },
+    "simple-init" : {
+        "prefix": "@simple-init",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "typedef long long ll;",
+            "",
+            "int main(){",
+            "    $1",
+            "}"
+        ]
+    },
+    "poj-init" : {
+        "prefix": "@poj-init",
+        "body": [
+            "#include <iostream>",
+            "#include <vector>",
+            "#include <string>",
+            "#include <algorithm>",
+            "using namespace std;",
+            "typedef long long ll;",
+            "",
+            "int main(){",
+            "    $1",
+            "}"
+        ]
     }
-
 }
-
