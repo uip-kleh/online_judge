@@ -7,3 +7,4 @@
 - https://atcoder.jp/contests/arc054/tasks/arc054_b
 - https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c
 - https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d
+- https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b
